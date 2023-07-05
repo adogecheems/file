@@ -23,3 +23,7 @@
 .layout>#archive{
     background: rgba(255,255,255,.6);
 }
+
+.color-bg-primary .color-border-primary .gsc-comment-box{
+    background: rgba(255,255,255,.6);
+}
