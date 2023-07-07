@@ -22,6 +22,6 @@
     background: rgba(255,255,255,.8);
 }
 
-:root{
-    --waline-bgcolor: transparent
+.wl-panel{
+    background: transparent;
 }
