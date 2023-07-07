@@ -22,5 +22,6 @@
     background: rgba(255,255,255,.8);
 }
 
-@waline/client{
-    --waline-white: transparent
+:root{
+    --waline-bgcolor: transparent
+}
